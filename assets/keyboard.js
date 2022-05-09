@@ -6,6 +6,8 @@ import {
 document.body.innerHTML += `<div class="header">
 <h1>Virtual keyboard</h1>    
 <textarea class="use-keyboard-input" placeholder="click to start.."></textarea>
+<p>Press CTRL + ALT to switch language</p>
+<p>Keyboard for Windows operating system</p>
 </div>`;
 
 const DEFAULT_LANG = 'en';
