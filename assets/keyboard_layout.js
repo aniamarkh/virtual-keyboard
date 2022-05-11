@@ -19,7 +19,7 @@ const keyLayoutShiftOnEn = [
   '<i class="material-icons">keyboard_tab</i>', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '{', '}', '|',
   '<i class="material-icons">keyboard_capslock</i>', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':', '"', '<i class="material-icons">keyboard_return</i>',
   'shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<', '>', '?', '<i class="material-icons">arrow_upward</i>', 'shift',
-  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'ctrl', 'alt', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
+  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'alt', 'ctrl', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
   '<i class="material-icons">done</i>',
 ];
 const keyLayoutShiftOnRu = [
@@ -27,7 +27,7 @@ const keyLayoutShiftOnRu = [
   '<i class="material-icons">keyboard_tab</i>', 'Й', 'Ц', 'У', 'К', 'Е', 'Н', 'Г', 'Ш', 'Щ', 'З', 'Х', 'Ъ', '/',
   '<i class="material-icons">keyboard_capslock</i>', 'Ф', 'Ы', 'В', 'А', 'П', 'Р', 'О', 'Л', 'Д', 'Ж', 'Э', '<i class="material-icons">keyboard_return</i>',
   'shift', 'Я', 'Ч', 'С', 'М', 'И', 'Т', 'Ь', 'Б', 'Ю', ',', '<i class="material-icons">arrow_upward</i>', 'shift',
-  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'ctrl', 'alt', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
+  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'alt', 'ctrl', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
   '<i class="material-icons">done</i>',
 ];
 const keyLayoutShiftOffEn = [
@@ -35,7 +35,7 @@ const keyLayoutShiftOffEn = [
   '<i class="material-icons">keyboard_tab</i>', 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', '[', ']', '\\',
   '<i class="material-icons">keyboard_capslock</i>', 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';', '\'', '<i class="material-icons">keyboard_return</i>',
   'shift', 'z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '/', '<i class="material-icons">arrow_upward</i>', 'shift',
-  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'ctrl', 'alt', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
+  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'alt', 'ctrl', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
   '<i class="material-icons">done</i>',
 ];
 const keyLayoutShiftOffRu = [
@@ -43,7 +43,7 @@ const keyLayoutShiftOffRu = [
   '<i class="material-icons">keyboard_tab</i>', 'й', 'ц', 'у', 'к', 'е', 'н', 'г', 'ш', 'щ', 'з', 'х', 'ъ', '\\',
   '<i class="material-icons">keyboard_capslock</i>', 'ф', 'ы', 'в', 'а', 'п', 'р', 'о', 'л', 'д', 'ж', 'э', '<i class="material-icons">keyboard_return</i>',
   'shift', 'я', 'ч', 'с', 'м', 'и', 'т', 'ь', 'б', 'ю', '.', '<i class="material-icons">arrow_upward</i>', 'shift',
-  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'ctrl', 'alt', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
+  'ctrl', 'alt', '<i class="material-icons">space_bar</i>', 'alt', 'ctrl', '<i class="material-icons">arrow_back</i>', '<i class="material-icons">arrow_downward</i>', '<i class="material-icons">arrow_forward</i>',
   '<i class="material-icons">done</i>',
 ];
 
