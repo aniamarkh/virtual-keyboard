@@ -9,7 +9,6 @@ For this project, I created a virtual keyboard with the following functionalitie
 - The virtual keyboard could switch between two language layouts, with the language buttons displaying symbols of the selected language.
 - Keystrokes were animated.
 - Clicking on the virtual keyboard buttons or pressing keys on a physical keyboard input symbols to the text area above the virtual keyboard.
-- Pressing the arrow keys input an arrow symbol or implemented navigation on the text area.
 - Pressing Enter moved the text cursor to the next line.
 - Pressing Tab created a horizontal indent.
 - The Backspace key removed the character before the text cursor, and Del removed the character after it.
